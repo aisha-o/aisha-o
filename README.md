@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aisha!
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning front end development with Html, css and javascript
+- 👀 I’m interested in Web development and Data Analysis
+- 🌱 I’m currently learning front end development with Html, css, javascript, python and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
